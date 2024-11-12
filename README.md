@@ -1,5 +1,6 @@
 IMPACT OF ECO-DRIVING ON A SINGLE-LANE HIGHWAY ON TRAVEL TIMES AND CO2 EMISSIONS:
 AN AGENT-BASED APPROACH
+Cypreste et al (2024).
 
 This repository contains the models developed in NetLogo language, from the design, verification and experimental model phases.
 The Local and Global Sensitivity Analyses, as well as the final experiments are available in R language. 
